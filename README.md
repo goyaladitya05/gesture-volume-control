@@ -20,18 +20,18 @@ Pycaw – Windows audio control
 
 # 📦 Installation
 
-- Clone the repository
-git clone https://github.com/yourusername/gesture-volume-control.git
-cd gesture-volume-control
+- Clone the repository  
+git clone https://github.com/yourusername/gesture-volume-control.git  
+cd gesture-volume-control  
 
 # Install dependencies
 pip install opencv-python mediapipe numpy pycaw comtypes
 
 # ▶ Usage
-Make an OK gesture (thumb and index finger apart) to set the volume
-Move fingers closer = decrease volume
-Move fingers apart = increase volume
-Press Q to exit
+Make an OK gesture (thumb and index finger apart) to set the volume  
+Move fingers closer = decrease volume  
+Move fingers apart = increase volume  
+Press Q to exit  
 
 # 📸 Demo
 ![image1](images/image1.jpg)
