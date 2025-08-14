@@ -5,18 +5,18 @@ Built with OpenCV for video processing, MediaPipe for hand landmark detection, a
 
 # ✨ Features
 
-📹 Real-time detection of hand movements via webcam
-🖐 Thumb–index finger distance mapping to volume levels
-🔊 OS-level volume adjustment without touching your keyboard/mouse
-⚡ Smooth and responsive performance (~30 FPS)
-🖥 Designed for Windows systems (Pycaw dependency)
+📹 Real-time detection of hand movements via webcam  
+🖐 Thumb–index finger distance mapping to volume levels  
+🔊 OS-level volume adjustment without touching your keyboard/mouse  
+⚡ Smooth and responsive performance (~30 FPS)  
+🖥 Designed for Windows systems (Pycaw dependency)  
 
 # 🛠 Tech Stack
-Python 3.x
-OpenCV – Image & video processing
-MediaPipe – Hand landmark detection
-NumPy – Numerical computations
-Pycaw – Windows audio control
+Python 3.x  
+OpenCV – Image & video processing  
+MediaPipe – Hand landmark detection  
+NumPy – Numerical computations  
+Pycaw – Windows audio control  
 
 # 📦 Installation
 
