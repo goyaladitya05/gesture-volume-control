@@ -1,4 +1,4 @@
-/*Gesture Volume Control*/
+#Gesture Volume Control
 
 A Python application that uses hand gestures to control your system’s audio volume in real time.
 Built with OpenCV for video processing, MediaPipe for hand landmark detection, and Pycaw for Windows audio control.
